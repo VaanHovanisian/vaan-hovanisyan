@@ -1,0 +1,22 @@
+.contact {
+  padding-top: clamp(1.875rem, 0.8036rem + 5.3571vw, 5.625rem);
+  padding-bottom: 40px;
+}
+.contact__container {
+  display: grid;
+  justify-items: center;
+  gap: 30px;
+  text-align: center;
+}
+.contact__title {
+}
+.contact__text {
+}
+.contact__button {
+  padding: 13px 30px;
+  border-radius: 30px;
+  background-color: var(--black);
+  color: white;
+  font-size: 18px;
+  font-weight: 700;
+}
